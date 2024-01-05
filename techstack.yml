@@ -2,7 +2,7 @@ repo_name: yfram/dailyrn
 report_id: 547f890a47922784a647699bc4d65163
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-20T09:14:03+00:00'
+timestamp: '2024-01-05T08:19:50+00:00'
 requested_by: yfram
 provider: github
 branch: master
@@ -16,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/yfram/dailyrn
   detection_source: Repo Metadata
 - name: C++
   description: Has imperative, object-oriented and generic programming features, while
@@ -26,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/yfram/dailyrn
   detection_source: Repo Metadata
 - name: Dart
   description: A new web programming language with libraries, a virtual machine, and
@@ -36,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1646/Twitter-02.png
+  detection_source_url: https://github.com/yfram/dailyrn
   detection_source: Repo Metadata
 - name: Kotlin
   description: Statically typed Programming Language targeting JVM and JavaScript
@@ -45,6 +48,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/3750/pCfEzr6L.png
+  detection_source_url: https://github.com/yfram/dailyrn
   detection_source: Repo Metadata
 - name: Objective-C
   description: The primary programming language you use when writing software for
@@ -55,6 +59,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1008/xcode.png
+  detection_source_url: https://github.com/yfram/dailyrn
   detection_source: Repo Metadata
 - name: Swift
   description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
@@ -65,6 +70,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  detection_source_url: https://github.com/yfram/dailyrn
   detection_source: Repo Metadata
 - name: Android SDK
   description: An SDK that provides you the API libraries and developer tools necessary
@@ -75,6 +81,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png
+  detection_source_url: https://github.com/yfram/dailyrn/blob/master/android/app/build.gradle
   detection_source: android/app/build.gradle
   last_updated_by: Yoni
   last_updated_on: 2022-12-29 14:03:53.000000000 Z
@@ -87,6 +94,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Cross-Platform Mobile Development
   image_url: https://img.stackshare.io/service/7180/flutter-mark-square-100.png
+  detection_source_url: https://github.com/yfram/dailyrn/blob/master/pubspec.yaml
   detection_source: pubspec.yaml
   last_updated_by: Yoni
   last_updated_on: 2022-12-29 17:47:24.000000000 Z
@@ -98,6 +106,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source_url: https://github.com/yfram/dailyrn/blob/master/linux/CMakeLists.txt
   detection_source: linux/CMakeLists.txt
   last_updated_by: Yoni
   last_updated_on: 2022-12-29 14:03:53.000000000 Z
@@ -109,6 +118,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Java Build Tools
   image_url: https://img.stackshare.io/service/2424/0UlUI_y1_400x400.jpg
+  detection_source_url: https://github.com/yfram/dailyrn
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -118,6 +128,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/yfram/dailyrn
   detection_source: Repo Metadata
 - name: Gradle
   description: A powerful build system for the JVM
@@ -128,6 +139,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Java Build Tools
   image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source_url: https://github.com/yfram/dailyrn/blob/master/android/app/build.gradle
   detection_source: android/app/build.gradle
   last_updated_by: Yoni
   last_updated_on: 2022-12-29 14:03:53.000000000 Z
@@ -139,6 +151,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Operating Systems
   image_url: https://img.stackshare.io/service/9586/ZvmtaSXW_400x400.jpg
+  detection_source_url: https://github.com/yfram/dailyrn/blob/master/android/app/build.gradle
   detection_source: android/app/build.gradle
   last_updated_by: Yoni
   last_updated_on: 2022-12-29 14:03:53.000000000 Z
@@ -150,6 +163,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/yfram/dailyrn/blob/master/linux/CMakeLists.txt
   detection_source: linux/CMakeLists.txt
   last_updated_by: Yoni
   last_updated_on: 2022-12-29 14:03:53.000000000 Z
@@ -253,6 +267,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/yfram/dailyrn/blob/master/android/app/build.gradle
   detection_source: android/app/build.gradle
   last_updated_by: Yoni
   last_updated_on: 2022-12-29 14:03:53.000000000 Z
